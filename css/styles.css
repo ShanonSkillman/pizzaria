@@ -1,0 +1,140 @@
+body{
+    background: url(https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/alpine_pizza_32132_16x9.jpg)  top center no-repeat;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 400px 180px;  
+  }
+
+
+  img {
+    display: block;
+    margin-right: auto;
+    width: 20%; 
+    
+}
+
+  .openingTitle{
+    font-size: 80px;
+    font-family: 'Cutive Mono', monospace;
+    color: darkslategray;
+    text-align: center
+  }
+
+  #tagLine{
+    font-size: 60px;
+    font-family: 'Cutive Mono', monospace;
+    color: darkslategray;
+    text-align: center
+  }
+
+  #today{
+    font-size: 80px;
+    font-family: 'Cutive Mono', monospace;
+    color: darkslategray;
+    text-align: center
+  }
+
+   .sectionTitle{
+    font-size: 30px;
+    font-family: 'Cutive Mono', monospace;
+    font-weight: bold;
+  }
+  
+  #name{
+    font-size: 30px;
+    font-family: 'Cutive Mono', monospace;
+    color: darkslategray;
+    text-align: center
+  }
+  
+  #topMenu{
+  position: absolute;
+  font-family: 'Cutive Mono', monospace;
+  left: 0px;
+  width: 200px;
+  }
+  
+  .guide{
+  font-size: 20px;
+  font-family: 'Cutive Mono', monospace;
+  color: firebrick;
+  position: absolute;
+  top: 100px;
+  right: 0;
+  width: 200px;
+  text-align: center;
+  word-wrap: normal;
+
+      
+  }
+  
+  .guide:hover{
+  color: pink;
+  font-family: 'Cutive Mono', monospace;
+  background-color: wheat;
+  font-size: 30px;
+  }
+  
+  .content{
+    word-wrap: break-word;
+  }
+  
+  .type{
+     word-wrap: break-word;
+  }
+
+  .sectionTitle{
+    font-size: 30px;
+    font-family: 'Cutive Mono', monospace;
+  }
+  .pizzaName{
+  font-size: 30px;
+  font-family: 'Cutive Mono', monospace;
+  left: 100px;
+  }
+
+  .sectionTitle1{
+    font-size: 30px;
+    font-family: 'Cutive Mono', monospace;
+    font-weight: bold;
+  }
+
+  #deal{
+    font-size: 30px;
+    font-family: 'Cutive Mono', monospace;
+  }
+
+  .sectionTitle2{
+    font-size: 30px;
+    font-family: 'Cutive Mono', monospace;
+  }
+
+  .addy{
+    font-size: 15px;
+    font-family: 'Cutive Mono', monospace;
+  }
+
+  #street{
+    font-size: 15px;
+    font-family: 'Cutive Mono', monospace;
+  }
+
+  #map{
+    font-size: 15px;
+    font-family: 'Cutive Mono', monospace;
+  }
+  .hours2{
+    font-size: 15px;
+    font-family: 'Cutive Mono', monospace;
+  }
+
+  #hours{
+    font-size: 15px;
+    font-family: 'Cutive Mono', monospace;
+  }
+
+  p {
+    font-family: 'Cutive Mono', monospace;
+    width: 200px; 
+  }
+  

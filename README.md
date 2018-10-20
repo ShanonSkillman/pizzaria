@@ -53,9 +53,13 @@ This site will have six sections:
 1. Create a section element with an id of "menu".
 2. Inside the section element, create a div element with the class of "content".
 3. Inside the div element, create a h3 element with a class of "sectionTitle" and insert the text "Menu" as the content for the h3 tag.
+
 4. Inside the div element, create another div element with a class of "pizza".
+
 5. Inside the "pizza" div, create a p element with a class of "pizzaName" and insert the text "Object of My Desire" as the content for the p tag.
+
 6. Inside the "pizza" div, create a p element with a class of "description" and insert the text "A programmers delight, this classic has string cheese, an array of BBQ meats and 1 special sauce." as the content for the p tag.
+
 7. Inside the "pizza" div, create a p element with a class of "price" and insert the text "19.99." as the content for the p tag.
 
 **Commit Your Work**
@@ -63,6 +67,7 @@ This site will have six sections:
 Repeat Steps 4 - 7 for the following:
 
 pizzaName: Four Loop
+
 
 description: Spin your wheel with this quattro cheese mix doused in garlic and truffle oil. Loop there it is!
 
@@ -93,7 +98,9 @@ price: 17.02
 1. Create a section element with an id of "subscribe".
 2. Inside the section element, create a div element with the class of "content".
 3. Inside the div element, create a h3 element with a class of "sectionTitle" and insert the text "Subscribe" as the content for the h3 tag.
+
 4. Inside the div element create a p element with an id of "deal" and insert the text "Sign up for our special deals!" as the content for the p element.
+
 5. Inside the div element create an input element and add a placeholder="First Name" attribute.
 6. Inside the div element create an input element and add a placeholder="Last Name" attribute.
 7. Inside the div element create an input element and add a placeholder="email" attribute.
@@ -103,10 +110,15 @@ price: 17.02
 ###5. Visit
 
 1. Create a section element with an id of "visit".
+
 2. Inside the section element, create a div element with the class of "content".
+
 3. Inside the div element, create a h3 element with a class of "sectionTitle" and insert the text "Visit" as the content for the h3 tag.
+
 4. Inside the div element, create an ul element with an id of "addy".
+
 5. Inside the ul element, create a li element with an id of "street" and insert the text "2800 Woodlawn Dr.<br>Honolulu, HI 96822" as the content for the li tag.
+
 6. Inside the ul element, create a li element of an id of "map". 
 7. Inside the "map" li element, create an a element (anchor tag) and insert "https://www.google.com/maps?ll=21.223782,-157.899628&z=13&t=m&hl=en&gl=US&mapclient=embed&cid=15585431400080676543" target="_blank" in the href attribute and insert the text "View Map" as th content for the a tag.
 
